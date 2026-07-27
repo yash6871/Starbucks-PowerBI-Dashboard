@@ -26,7 +26,7 @@ This Power BI dashboard analyzes Starbucks beverages using interactive visualiza
 
 ## 📸 Dashboard Preview
 
-![Dashboard](screenshots/dashboard.png)
+![Dashboard](Images/dashboard.png)
 
 ## 📁 Files Included
 
